@@ -23,4 +23,4 @@ This MATLAB script sweeps the function generator frequency from 1Hz to 15MHz, me
 
 6. **Dependencies**: This script requires the Instrument Control Toolbox in MATLAB for communication with the function generator and oscilloscope.
 
-7. **Author**: [Aryan]
+7. **Author**: [MiyamaraKun]
